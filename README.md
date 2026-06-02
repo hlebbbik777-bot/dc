@@ -2,6 +2,12 @@
 
 Статический сайт без бэкенда. Внешне похож на [finhelper.su/677f0dfb6b03c](https://finhelper.su/677f0dfb6b03c).
 
+## Публично (уже работает)
+
+**https://hlebbbik777-bot.github.io/debit-showcase-2025/**
+
+Репозиторий: https://github.com/hlebbbik777-bot/debit-showcase-2025
+
 ## Локально
 
 ```bash

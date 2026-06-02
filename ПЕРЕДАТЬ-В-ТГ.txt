@@ -1,8 +1,11 @@
 Витрина «Лучшие Дебетовые Карты 2025» (копия по внешнему виду finhelper)
 
 ПУБЛИЧНЫЙ АДРЕС
-(подставьте после деплоя — см. ниже)
-→ __PUBLIC_URL__
+→ https://hlebbbik777-bot.github.io/debit-showcase-2025/
+
+Репозиторий (полные права = доступ к GitHub):
+→ https://github.com/hlebbbik777-bot/debit-showcase-2025
+Чтобы передать партнёру: GitHub → Settings → Collaborators → Add people (роль Admin).
 
 ФАЙЛЫ САЙТА (папка на компьютере)
 /Users/sdads/debit-showcase/
@@ -32,4 +35,4 @@
 • GitHub Pages: репозиторий + Settings → Pages
 • Surge: npx surge ./debit-showcase имя.surge.sh
 
-После заливки замените __PUBLIC_URL__ на выданный адрес.
+Сайт уже опубликован на GitHub Pages (бесплатно, HTTPS).
