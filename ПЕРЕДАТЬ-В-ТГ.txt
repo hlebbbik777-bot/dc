@@ -1,10 +1,13 @@
 Витрина «Лучшие Дебетовые Карты 2025» (копия по внешнему виду finhelper)
 
-ПУБЛИЧНЫЙ АДРЕС
-→ https://hlebbbik777-bot.github.io/debit-showcase-2025/
+ПУБЛИЧНЫЙ АДРЕС (основной, короткий)
+→ https://debit-cards-ru.vercel.app
+
+Запасной:
+→ https://hlebbbik777-bot.github.io/dc/
 
 Репозиторий (полные права = доступ к GitHub):
-→ https://github.com/hlebbbik777-bot/debit-showcase-2025
+→ https://github.com/hlebbbik777-bot/dc
 Чтобы передать партнёру: GitHub → Settings → Collaborators → Add people (роль Admin).
 
 ФАЙЛЫ САЙТА (папка на компьютере)
